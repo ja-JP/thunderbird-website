@@ -261,7 +261,13 @@
   {
     "country":"Japan",
     "filename":"JapanHolidays.ics",
-    "datespan":"2007-2022",
+    "datespan":"2007-2042",
+    "authors":"Atsushi Sakai"
+  },
+  {
+    "country":"Japan (English)",
+    "filename":"JapanHolidaysEnglish.ics",
+    "datespan":"2007-2042",
     "authors":"Atsushi Sakai"
   },
   {
